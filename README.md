@@ -1,2 +1,2 @@
 # student-batch
-this is course for students 
+this is course for students.
